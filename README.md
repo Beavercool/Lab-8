@@ -8,4 +8,4 @@
 
 ### result
 
-![result](Lab8/8.png)
+![result](Lab 8 /8.png)
